@@ -34,7 +34,7 @@ class MyView extends View {
         Bitmap arrow5 = BitmapFactory.decodeResource(getResources(), R.mipmap.arrow5);
         canvas.drawBitmap(arrow5, 170, 800, null);
         Bitmap arrow6 = BitmapFactory.decodeResource(getResources(), R.mipmap.arrow6);
-        canvas.drawBitmap(arrow6, 1450, 800, null);
+        canvas.drawBitmap(arrow6, 1450, 810, null);
 
     }
 }
